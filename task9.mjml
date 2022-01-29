@@ -1,0 +1,56 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-all padding="0px"></mj-all>
+      <mj-class name="preheader" color="#000000" font-size="11px" font-family="Ubuntu, Helvetica, Arial, sans-serif" padding="0px"></mj-class>
+    </mj-attributes>
+    <mj-style inline="inline">a { text-decoration: none; color: inherit; }</mj-style>
+  </mj-head>
+  <mj-body background-color="#e0f2ff">
+      <mj-section background-color="#2A5CAB">
+        <mj-column vertical-align="middle" width="33%">
+        <mj-image align="left" padding="20px " src="https://www.upload.ee/image/13839179/logo.png" width="200px"></mj-image>
+        </mj-column>
+        <mj-column vertical-align="middle"  width="63%">
+        <mj-text font-size="20px" color="#FFF">the only way to travel</mj-text>
+				</mj-column>
+    </mj-section>
+    <mj-section>
+    <mj-column  vertical-align="middle" background-color="#FFF">
+        <mj-image  src="https://www.upload.ee/image/13839181/ticket.png" padding="20px" width="180px"></mj-image>
+        <mj-text align="center"  font-weight="bold" font-size="25px"color="#FAB701" padding-top="20px">
+            Hey!
+      	</mj-text>
+        <mj-text align="center"  font-weight="bold" font-size="25px"color="#FAB701" padding-top="20px">
+             It's been a long time since you last traveled with us.
+      	</mj-text>
+        <mj-text align="center"  font-weight="bold" font-size="19px" color="#EC652D" padding-top="20px">
+            Have a look at some of the top destinations people are booking right now!
+      	</mj-text>
+      </mj-column>
+      </mj-section>
+			<mj-section padding="40px 0" background-color="#FFF">
+         <mj-column>
+         <mj-image   src="https://www.upload.ee/image/13839188/new-york.png" width="150px"></mj-image>
+         <mj-text align="center" padding="15px" font-size="20px" color="#EC652D"  font-weight="bold">New York</mj-text>
+         <mj-text align="center" font-size="18px" font-weight="bold">$399</mj-text>
+        </mj-column>
+        <mj-column>
+         <mj-image   src="https://www.upload.ee/image/13839186/london.png" width="150px"></mj-image>
+         <mj-text align="center" padding="15px" font-size="20px" color="#EC652D"  font-weight="bold">London</mj-text>
+         <mj-text align="center" font-size="18px" font-weight="bold">$399</mj-text>
+        </mj-column>
+        <mj-column>
+         <mj-image src="https://www.upload.ee/image/13839183/berlin.png" width="150px"></mj-image>
+         <mj-text align="center" padding="15px" font-size="20px" color="#EC652D"  font-weight="bold">Berlin</mj-text>
+         <mj-text align="center" font-size="18px" font-weight="bold" >$399</mj-text>
+        </mj-column>
+        </mj-section>
+      <mj-section background-color="#FAB701">
+        <mj-column>
+        <mj-text font-size="20px" color="#EC652D"  padding="20px" align="center">Best,</mj-text>
+        <mj-text font-size="20px" color="#EC652D"  padding-bottom="20px" align="center">World Travel Agency</mj-text>
+				</mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>
