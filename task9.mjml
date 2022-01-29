@@ -13,7 +13,7 @@
         </mj-column>
         <mj-column vertical-align="middle"  width="63%">
         <mj-text font-size="20px" color="#FFF">the only way to travel</mj-text>
-				</mj-column>
+	</mj-column>
     </mj-section>
     <mj-section>
     <mj-column  vertical-align="middle" background-color="#FFF">
@@ -29,7 +29,7 @@
       	</mj-text>
       </mj-column>
       </mj-section>
-			<mj-section padding="40px 0" background-color="#FFF">
+	<mj-section padding="40px 0" background-color="#FFF">
          <mj-column>
          <mj-image   src="https://www.upload.ee/image/13839188/new-york.png" width="150px"></mj-image>
          <mj-text align="center" padding="15px" font-size="20px" color="#EC652D"  font-weight="bold">New York</mj-text>
@@ -50,7 +50,7 @@
         <mj-column>
         <mj-text font-size="20px" color="#EC652D"  padding="20px" align="center">Best,</mj-text>
         <mj-text font-size="20px" color="#EC652D"  padding-bottom="20px" align="center">World Travel Agency</mj-text>
-				</mj-column>
+      </mj-column>
       </mj-section>
   </mj-body>
 </mjml>
